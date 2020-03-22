@@ -6,3 +6,5 @@ Os dados disponibilizados estão no formato PDF, para extrair esses dados utiliz
 ter instalado o Ghostscript.
 
 A saída dos dados é CSV sendo seu tratamento realizado com a biblioteca Pandas.
+
+A origem dos dados é: http://www.saude.pr.gov.br/modules/conteudo/conteudo.php?conteudo=3507
